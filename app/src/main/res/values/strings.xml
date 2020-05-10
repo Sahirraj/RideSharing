@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">RideSharing</string>
+    <string name="enable_gps" />
+    <string name="enable_now" />
+    <string name="required_for_this_app" />
 </resources>
