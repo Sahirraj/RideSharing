@@ -4,4 +4,5 @@ import com.google.android.gms.maps.model.LatLng
 
 interface MapsView {
     fun showNearbyCabs(latlangList: List<LatLng>)
+
 }
