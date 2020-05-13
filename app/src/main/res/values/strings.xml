@@ -8,11 +8,13 @@
     <string name="current_location">Current Location</string>
     <string name="request_cab">Request Cab</string>
     <string name="requesting_your_cab">Requesting your cab</string>
-    <string name="your_cab_is_booked" />
-    <string name="your_cab_is_arriving" />
-    <string name="your_cab_has_arrived" />
-    <string name="you_are_on_a_trip" />
-    <string name="trip_end" />
+    <string name="your_cab_is_booked" >Your Cab Is Booked </string>
+    <string name="your_cab_is_arriving"> Your cab is Arriving</string>
+    <string name="your_cab_has_arrived" >Your Cab Has Arrived</string>
+    <string name="you_are_on_a_trip" > You are on a Trip </string>
+    <string name="trip_end" > Trip End</string>
+    <string name ="take_next_ride">Take Next Ride</string>
+    <string name="route_not_available_choose_different_locations" />
 
 
 </resources>
